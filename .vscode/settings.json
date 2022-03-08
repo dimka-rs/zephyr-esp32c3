@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "zephyr.h": "c",
+        "kernel.h": "c",
+        "kernel_includes.h": "c",
+        "kobject.h": "c"
+    }
+}
